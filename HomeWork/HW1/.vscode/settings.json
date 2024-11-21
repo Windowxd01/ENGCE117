@@ -57,6 +57,7 @@
   "C_Cpp_Runner.useLinkTimeOptimization": false,
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
   "files.associations": {
-    "HW1.C": "cpp"
+    "HW1.C": "cpp",
+    "HW1-1.C": "cpp"
   }
 }
