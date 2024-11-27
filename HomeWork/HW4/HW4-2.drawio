@@ -1,9 +1,156 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.9.1">
   <diagram name="Page-1" id="_L90WSPg18PBWDDSNc2B">
-    <mxGraphModel>
+    <mxGraphModel dx="936" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3Krevp0IlojpZYEyJMfi-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3Krevp0IlojpZYEyJMfi-1" target="3Krevp0IlojpZYEyJMfi-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Krevp0IlojpZYEyJMfi-1" value="start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="370" y="30" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3Krevp0IlojpZYEyJMfi-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3Krevp0IlojpZYEyJMfi-2" target="3Krevp0IlojpZYEyJMfi-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Krevp0IlojpZYEyJMfi-2" value="กำหนด a มีค่าเท่ากับ 0" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3Krevp0IlojpZYEyJMfi-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3Krevp0IlojpZYEyJMfi-4" target="3Krevp0IlojpZYEyJMfi-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Krevp0IlojpZYEyJMfi-4" value="กำหนด b มีค่าเท่ากับ 0" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3Krevp0IlojpZYEyJMfi-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3Krevp0IlojpZYEyJMfi-6" target="3Krevp0IlojpZYEyJMfi-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Krevp0IlojpZYEyJMfi-6" value="แสดงผลให้ผู้ใช้งานว่า &quot;&lt;span style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; white-space: pre;&quot;&gt;Please enter value (a b) : &quot;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="235" y="320" width="370" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3Krevp0IlojpZYEyJMfi-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3Krevp0IlojpZYEyJMfi-8" target="3Krevp0IlojpZYEyJMfi-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Krevp0IlojpZYEyJMfi-8" value="รับข้อมูลจากผู้ใช้เก็บไว้ในตัว a ที่มีค่าเริ่มต้นเป็น 0" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="270" y="410" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3Krevp0IlojpZYEyJMfi-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3Krevp0IlojpZYEyJMfi-10" target="3Krevp0IlojpZYEyJMfi-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Krevp0IlojpZYEyJMfi-10" value="รับข้อมูลจากผู้ใช้เก็บไว้ในตัว b ที่มีค่าเริ่มต้นเป็น 0" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="270" y="500" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3Krevp0IlojpZYEyJMfi-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3Krevp0IlojpZYEyJMfi-12" target="3Krevp0IlojpZYEyJMfi-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Krevp0IlojpZYEyJMfi-12" value="แสดงผล a และ b ที่กรอกเข้ามา" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="310" y="600" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3Krevp0IlojpZYEyJMfi-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3Krevp0IlojpZYEyJMfi-14" target="3Krevp0IlojpZYEyJMfi-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Krevp0IlojpZYEyJMfi-14" value="แสดงผลของการนำ a และ b ที่กรอกเข้ามา นำมาบวกกัน a + b" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="210" y="690" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3Krevp0IlojpZYEyJMfi-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3Krevp0IlojpZYEyJMfi-16" target="3Krevp0IlojpZYEyJMfi-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Krevp0IlojpZYEyJMfi-16" value="แสดงผลของการนำ a และ b ที่กรอกเข้ามา นำมาลบกัน a - b" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="210" y="780" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3Krevp0IlojpZYEyJMfi-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3Krevp0IlojpZYEyJMfi-18" target="3Krevp0IlojpZYEyJMfi-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Krevp0IlojpZYEyJMfi-18" value="แสดงผลของการนำ a และ b ที่กรอกเข้ามา นำมาคูณกัน a * b" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="210" y="870" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3Krevp0IlojpZYEyJMfi-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3Krevp0IlojpZYEyJMfi-20" target="3Krevp0IlojpZYEyJMfi-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Krevp0IlojpZYEyJMfi-20" value="แสดงผลของการนำ a และ b ที่กรอกเข้ามา นำมาหารกัน a / b และมีการตรวจเช็คว่า ถ้า b มีค่ามากกว่า 0 หรือไม่ และแสดงคำว่า (b must greater than 0)&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="960" width="800" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3Krevp0IlojpZYEyJMfi-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3Krevp0IlojpZYEyJMfi-22" target="3Krevp0IlojpZYEyJMfi-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Krevp0IlojpZYEyJMfi-22" value="แสดงผลของการนำ a และ b ที่กรอกเข้ามา นำมาหารเอาเศษ a % b&amp;nbsp;&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1060" width="800" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3Krevp0IlojpZYEyJMfi-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3Krevp0IlojpZYEyJMfi-24" target="3Krevp0IlojpZYEyJMfi-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Krevp0IlojpZYEyJMfi-24" value="แสดงผลของการนำ a มาบวกค่าก่อน แล้วแสดงผลหลังจากการนำ a ที่บวกค่าก่อน มาแสดง&lt;div&gt;++a&amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="175" y="1160" width="490" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3Krevp0IlojpZYEyJMfi-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3Krevp0IlojpZYEyJMfi-26" target="3Krevp0IlojpZYEyJMfi-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Krevp0IlojpZYEyJMfi-26" value="แสดงผลของการนำ a มาลบค่า&amp;nbsp;&lt;div&gt;a--&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="175" y="1260" width="490" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3Krevp0IlojpZYEyJMfi-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3Krevp0IlojpZYEyJMfi-28" target="3Krevp0IlojpZYEyJMfi-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Krevp0IlojpZYEyJMfi-28" value="แสดงผลของการนำ a มาบวกค่าเพิ่มขึ้น 1&lt;div&gt;a += 1&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="175" y="1350" width="490" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3Krevp0IlojpZYEyJMfi-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3Krevp0IlojpZYEyJMfi-30" target="3Krevp0IlojpZYEyJMfi-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Krevp0IlojpZYEyJMfi-30" value="แสดงผลของการนำ a มาบวกค่าเพิ่มขึ้น 1 ค่า แล้วนำมาบวกกับ b&lt;div&gt;a += b&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="175" y="1450" width="490" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3Krevp0IlojpZYEyJMfi-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3Krevp0IlojpZYEyJMfi-32" target="3Krevp0IlojpZYEyJMfi-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Krevp0IlojpZYEyJMfi-32" value="แสดงผลของการนำ a มาลบค่าเพิ่มขึ้น 1 ค่า แล้วนำมาบวกกับ b&lt;div&gt;a -= 1&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="175" y="1560" width="490" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3Krevp0IlojpZYEyJMfi-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3Krevp0IlojpZYEyJMfi-34" target="3Krevp0IlojpZYEyJMfi-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Krevp0IlojpZYEyJMfi-34" value="แสดงผลของการนำ a มาลบค่าเพิ่มขึ้น 1 ค่า แล้วนำมาลบกับ b&lt;div&gt;a -= b&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="175" y="1660" width="490" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3Krevp0IlojpZYEyJMfi-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3Krevp0IlojpZYEyJMfi-36" target="3Krevp0IlojpZYEyJMfi-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Krevp0IlojpZYEyJMfi-36" value="แสดงผลของการนำ a มาคูณ 1&amp;nbsp;&lt;div&gt;a *= 1&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="175" y="1750" width="490" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3Krevp0IlojpZYEyJMfi-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3Krevp0IlojpZYEyJMfi-38" target="3Krevp0IlojpZYEyJMfi-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Krevp0IlojpZYEyJMfi-38" value="แสดงผลของการนำ a มาคูณกับ b&amp;nbsp;&lt;div&gt;a *= b&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="175" y="1850" width="490" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3Krevp0IlojpZYEyJMfi-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3Krevp0IlojpZYEyJMfi-40" target="3Krevp0IlojpZYEyJMfi-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Krevp0IlojpZYEyJMfi-40" value="แสดงผลของการนำ a มาหารเอาเศษกับ 1&amp;nbsp;&lt;div&gt;a %= 1&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="175" y="1960" width="490" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3Krevp0IlojpZYEyJMfi-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3Krevp0IlojpZYEyJMfi-42" target="3Krevp0IlojpZYEyJMfi-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Krevp0IlojpZYEyJMfi-42" value="แสดงผลของการนำ a มาหารเอาเศษกับ b&amp;nbsp;&lt;div&gt;a %= b&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="175" y="2070" width="490" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3Krevp0IlojpZYEyJMfi-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3Krevp0IlojpZYEyJMfi-44" target="3Krevp0IlojpZYEyJMfi-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Krevp0IlojpZYEyJMfi-44" value="แสดงผลของการ a และ b&amp;nbsp;&lt;div&gt;a &amp;amp;&amp;amp; b&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="175" y="2180" width="490" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3Krevp0IlojpZYEyJMfi-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3Krevp0IlojpZYEyJMfi-46" target="3Krevp0IlojpZYEyJMfi-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Krevp0IlojpZYEyJMfi-46" value="แสดงผลของการ a หรือ b&amp;nbsp;&lt;div&gt;a || b&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="175" y="2290" width="490" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3Krevp0IlojpZYEyJMfi-48" value="end" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="370" y="2410" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
