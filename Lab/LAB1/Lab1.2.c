@@ -6,11 +6,15 @@ void GetSet( int data[] , int *num ) {
     for (int i = 0; i < *num; i++)
     {
         scanf( "%d", &data[i] ) ;
-    }
+    }// end for
+    //*for (int i = 0; i < *num; i++) {
+        //printf( "%d ", data[i] ) ;
+    //} แสดงผล
+    
 }//end Function GetSet
 
 int main() {
-    int data[100], num ;
+    int data[ 100 ], num ;
     GetSet( data , &num ) ;
     return 0 ;
 }//end function
